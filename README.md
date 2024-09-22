@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsabhin
 - 👀 I’m interested in data science, Machine learning and web development 
-- 🌱 I’m currently learning html,css, python.
+- 🌱 technical skills which i know - html,css, React.js, Python, My SQL
 - 💞️ I’m looking for training and internship. in web development, data science ,data analytics.
 
 <!---
