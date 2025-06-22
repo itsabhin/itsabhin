@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @itsabhin
-- 👀 I’m interested in data science, Machine learning and web development 
-- 🌱 technical skills which i know - html,css, React.js, Python, My SQL
-- 💞️ I’m looking for training and internship. in web development, data science ,data analytics.
+# 👋 Hi, I’m @itsabhin
 
-<!---
-itsabhin/itsabhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science graduate passionate about solving real-world problems using technology. I love working on projects that combine creativity and code.
+
+### 👨‍💻 Currently Working On:
+- Improving my skills in **JAVA**,**React.js** .
+- Building projects for my GitHub portfolio.
+
+### 🔧 Tech Stack:
+- 💻 Languages: Python, Java, HTML, CSS, Js.
+- 🧰 Tools: Git, GitHub, VS Code, MySQL.
+- 🧠 Learning: Java, React.js.
+
+
+### 📫 Let's Connect:
+- LinkedIn: [linkedin.com/in/Abhin Sharma](https://linkedin.com/in/Abhin Sharma)
+- Email: abhinwork247@gmail.com
+
+---
+
+🌱 _“Every line of code brings me closer to building something impactful.”_.
